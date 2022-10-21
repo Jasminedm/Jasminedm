@@ -1,6 +1,6 @@
 ##Hi, I'm Jasmine, your Jazzy Engineer 🫶🏿
 #### I am a Software Developer specializing in full stack web developer
-![I am a Software Developer specializing in full stack web developer](https://i.imgur.com/psRiapn.png)
+![I am a Software Developer specializing in full stack web developer](https://i.imgur.com/IJNgjZx.png)
 
 Methodical Software Engineer at Resilient Coders | Full stack web development | Converting client ideas into technical plans.
 
