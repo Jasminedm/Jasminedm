@@ -6,7 +6,11 @@ Methodical Software Engineer at Resilient Coders | Full stack web development | 
 
 Giving people opportunities to live with fewer worries is what drives me!
 
-Skills: JS | HTML | CSS | Node.js
+![HTML5](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-E31B5F?style=for-the-badge&logo=CSS3&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F0DB4F?style=for-the-badge&logo=JAVASCRIPT&logoColor=white)
+![NODE.JS](https://img.shields.io/badge/NODE.JS-68A063?style=for-the-badge&logo=NODE.JS&logoColor=white)
+![MONGODB](https://img.shields.io/badge/MONGODB-E8E7D5?style=for-the-badge&logo=MONGODB&logoColor=white)
 
 - 🔭 I’m currently working on improving my JS code 
 - 🌱 I’m currently learning Node.js and all its wonders 
