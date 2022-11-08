@@ -15,7 +15,7 @@ Giving people opportunities to live with fewer worries is what drives me!
 - 🌱 I’m currently learning Node.js and all its wonders 
 - 👯 I’m looking to collaborate on with folks who share my passion for improving mental health through technology 
 - 🤔 I’m looking for help with creating innovative designs that deliver the convenience people need in good working applications 
-- 💬 Ask me about Ask about my RC Demo Day Project 
+- 💬 Ask me about my RC Demo Day Project 
 - 📫 How to reach me: dev.JasmineDM@gmail.com 
 - 😄 Pronouns: Her, She, They 
 - ⚡ Fun fact: I am an amazing vocalist and a pretty talented sketch artist. 
