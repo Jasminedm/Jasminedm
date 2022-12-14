@@ -9,11 +9,11 @@ Giving people opportunities to live with fewer worries is what drives me!
 ![CSS3](https://img.shields.io/badge/CSS3-E31B5F?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F0DB4F?style=for-the-badge&logo=JAVASCRIPT&logoColor=white)
 ![NODE.JS](https://img.shields.io/badge/NODE.JS-68A063?style=for-the-badge&logo=NODE.JS&logoColor=white)
-![MONGODB](https://img.shields.io/badge/MONGODB-E8E7D5?style=for-the-badge&logo=MONGODB&logoColor=white)
-![REACT](https://img.shields.io/badge/REACT-E8E7D5?style=for-the-badge&logo=REACT&logoColor=white)
-![CLOUDINARY](https://img.shields.io/badge/CLOUDINARY-E8E7D5?style=for-the-badge&logo=CLOUDINARY&logoColor=white)
-![EXPRESS](https://img.shields.io/badge/EXPRESS-E8E7D5?style=for-the-badge&logo=EXPRESS&logoColor=white)
-![JAVA](https://img.shields.io/badge/JAVA-E8E7D5?style=for-the-badge&logo=JAVA&logoColor=white)
+![MONGODB](https://img.shields.io/badge/MONGODB-FF33F2?style=for-the-badge&logo=MONGODB&logoColor=white)
+![REACT](https://img.shields.io/badge/REACT-3359FF?style=for-the-badge&logo=REACT&logoColor=white)
+![CLOUDINARY](https://img.shields.io/badge/CLOUDINARY-610544?style=for-the-badge&logo=CLOUDINARY&logoColor=white)
+![EXPRESS](https://img.shields.io/badge/EXPRESS-610529?style=for-the-badge&logo=EXPRESS&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-053761?style=for-the-badge&logo=JAVA&logoColor=white)
 
 
 - 🔭 I’m currently working on optimizing my code  
