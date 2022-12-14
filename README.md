@@ -10,13 +10,18 @@ Giving people opportunities to live with fewer worries is what drives me!
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F0DB4F?style=for-the-badge&logo=JAVASCRIPT&logoColor=white)
 ![NODE.JS](https://img.shields.io/badge/NODE.JS-68A063?style=for-the-badge&logo=NODE.JS&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/MONGODB-E8E7D5?style=for-the-badge&logo=MONGODB&logoColor=white)
+![REACT](https://img.shields.io/badge/REACT-E8E7D5?style=for-the-badge&logo=REACT&logoColor=white)
+![CLOUDINARY](https://img.shields.io/badge/CLOUDINARY-E8E7D5?style=for-the-badge&logo=CLOUDINARY&logoColor=white)
+![EXPRESS](https://img.shields.io/badge/EXPRESS-E8E7D5?style=for-the-badge&logo=EXPRESS&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-E8E7D5?style=for-the-badge&logo=JAVA&logoColor=white)
 
-- 🔭 I’m currently working on improving my JS code 
-- 🌱 I’m currently learning Node.js and all its wonders 
-- 👯 I’m looking to collaborate on with folks who share my passion for improving mental health through technology 
+
+- 🔭 I’m currently working on optimizing my code  
+- 🌱 I’m currently learning Java and react
+- 👯 I’m looking to collaborate with engineers who share my passion for building useful tools 
 - 🤔 I’m looking for help with creating innovative designs that deliver the convenience people need in good working applications 
-- 💬 Ask me about my RC Demo Day Project 
-- 📫 How to reach me: dev.JasmineDM@gmail.com 
+- 💬 Ask me about my Blexpat Project 
+- 📫 How to reach me: dev.Jasminedm@gmail.com 
 - 😄 Pronouns: Her, She, They 
 - ⚡ Fun fact: I am an amazing vocalist and a pretty talented sketch artist. 
 
