@@ -1,5 +1,5 @@
 ## Hi, ʕ•́ᴥ•̀ʔっ I'm Jasmine, your Jazzy Engineer 
-![I am a Software Developer specializing in full stack web developer](https://i.imgur.com/heub7d6.png)
+![I am a Software Developer specializing in full stack web developer](https://i.imgur.com/WVdrZGX.png)
 
 <p align="center">
   <a href="https://jazzyengineer-jasminedm.netlify.app" target="_blank">
@@ -24,11 +24,8 @@
 
 <section align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jasminedm)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Jasminedm) 
 </section>
-
 
 <h1 align="center">Technologies</h1>
 <hr></hr>
