@@ -26,7 +26,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jasminedm&theme=transparent&date_format=n%2Fj%5B%2FY%5D&currStreakNum=D41EC0&sideLabels=D41EC0&stroke=E9A5EB&ring=4FCBD7&sideNums=4FCBD7&dates=4FCBD7)](https://git.io/streak-stats) 
 </section>
 
-<h1 align="center">Technologies</h1>
+<h1 align="center" style="color: #2da9ad">Technologies</h1>
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=56aebf&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=56aebf&style=plastic&logo=css3"/>
@@ -53,7 +53,7 @@
 
 
 
-<h1 align="center">Let's Connect ʕ•́ᴥ•̀ʔっ</h1>
+<h1 align="center" style="color: #2da9ad">Let's Connect ʕ•́ᴥ•̀ʔっ</h1>
 <p align="center">
   <a href="https://jazzyengineer-jasminedm.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=4FCAD7&style=plastic&logo=atom&logo-color=white"/>
