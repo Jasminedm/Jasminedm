@@ -22,9 +22,12 @@
 </p>
 <hr>
 
+<section align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jasminedm)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Jasminedm) 
+</section>
 
 
 <h1 align="center">Technologies</h1>
