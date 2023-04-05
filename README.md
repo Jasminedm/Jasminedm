@@ -1,4 +1,3 @@
-## Hi, ʕ•́ᴥ•̀ʔっ I'm Jasmine, your Jazzy Engineer 
 ![I am a Software Developer specializing in full stack web developer](https://i.imgur.com/WVdrZGX.png)
 
 <p align="center">
@@ -28,8 +27,6 @@
 </section>
 
 <h1 align="center">Technologies</h1>
-<hr></hr>
-
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=56aebf&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=56aebf&style=plastic&logo=css3"/>
@@ -56,8 +53,7 @@
 
 
 
-<h1 align="center">Let's Connect</h1>
-<hr></hr>
+<h1 align="center">Let's Connect ʕ•́ᴥ•̀ʔっ</h1>
 <p align="center">
   <a href="https://jazzyengineer-jasminedm.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=4FCAD7&style=plastic&logo=atom&logo-color=white"/>
