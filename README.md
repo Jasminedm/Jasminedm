@@ -1,4 +1,4 @@
-![I am a Software Developer specializing in full stack web developer](https://i.imgur.com/WVdrZGX.png)
+![I am a Software Developer specializing in full stack web developer](software.png)
 
 <p align="center">
   <a href="https://jazzyengineer-jasminedm.netlify.app" target="_blank">
