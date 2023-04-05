@@ -23,7 +23,7 @@
 
 <section align="center">
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Jasminedm) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jasminedm&theme=transparent&date_format=n%2Fj%5B%2FY%5D&currStreakNum=D41EC0&sideLabels=D41EC0&stroke=E9A5EB&ring=4FCBD7&sideNums=4FCBD7&dates=4FCBD7)](https://git.io/streak-stats) 
 </section>
 
 <h1 align="center">Technologies</h1>
