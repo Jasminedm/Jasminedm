@@ -23,7 +23,7 @@
 
 <section align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jasminedm&theme=transparent&date_format=n%2Fj%5B%2FY%5D&currStreakNum=D41EC0&sideLabels=D41EC0&stroke=E9A5EB&ring=4FCBD7&sideNums=4FCBD7&dates=4FCBD7)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jasminedm&theme=neon&date_format=n%2Fj%5B%2FY%5D&background=EB545400&stroke=C986D7&currStreakNum=D41EC0&sideNums=4FCBD7&fire=6D6FEB&sideLabels=D41EC0&dates=4FCBD7&ring=4FCBD7&border=E772EB)](https://git.io/streak-stats)
 </section>
 
 <h1 align="center" style="color:#2da9ad">Technologies</h1>
