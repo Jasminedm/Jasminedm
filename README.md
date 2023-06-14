@@ -10,7 +10,7 @@
   <a href="https://twitter.com/JazzyEngineer" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=4FCAD7&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1eLU_X4ohTKzq6gJ-d9IuDfa8I2TzMJUq/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1TJwb-R20CqtxRDnu488oOxnVy-UdhqEq/view?usp=sharing" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=D31EBF&style=plastic&logo=buffer&logo-color=white"/>
   </a>
 <a href="mailto:dev.jasminedm@gmail.com" target="_blank">
